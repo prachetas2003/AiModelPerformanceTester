@@ -17,15 +17,15 @@ The **AI Model Performance Testing Framework** is a comprehensive tool designed 
 
 
 ###ai_model_performance_testing/
-- ├── hardware_monitor.py        Collects CPU and memory usage metrics before and after model inferences
-- ├── benchmark.py               Benchmarks AI models, measures performance, and logs metrics
-- ├── parallel_runner.py         Executes multiple benchmark processes concurrently
-- ├── dashboard.py               Launches an interactive Plotly Dash dashboard for visualizing benchmark results
-- ├── analysis.ipynb             Jupyter Notebook for in-depth data analysis and visualization of benchmark logs
-- ├── resource_limiter.py        Simulates hardware constraints by limiting CPU affinity and injecting faults
-- ├── Dockerfile                 Defines the Docker image setup for running benchmarks with resource limitations
-- ├── requirements.txt           Lists all Python dependencies required for the project
-- ├── README.md                  Project documentation and setup instructions
+- ├── hardware_monitor.py   ->     Collects CPU and memory usage metrics before and after model inferences
+- ├── benchmark.py  ->             Benchmarks AI models, measures performance, and logs metrics
+- ├── parallel_runner.py ->         Executes multiple benchmark processes concurrently
+- ├── dashboard.py ->              Launches an interactive Plotly Dash dashboard for visualizing benchmark results
+- ├── analysis.ipynb ->            Jupyter Notebook for in-depth data analysis and visualization of benchmark logs
+- ├── resource_limiter.py ->        Simulates hardware constraints by limiting CPU affinity and injecting faults
+- ├── Dockerfile ->                 Defines the Docker image setup for running benchmarks with resource limitations
+- ├── requirements.txt ->           Lists all Python dependencies required for the project
+- ├── README.md ->                  Project documentation and setup instructions
 - └── logs/                      Directory to store generated JSON log files from benchmark runs
 -    ├── metrics_log_resnet18_20250126_070723.json
 -    ├── metrics_log_mobilenet_v2_20250126_070830.json
