@@ -1,0 +1,422 @@
+[
+  {
+    "iteration": 0,
+    "before": {
+      "cpu_percent": 3.8,
+      "memory_percent": 67.2,
+      "timestamp": 1737900847.6213014
+    },
+    "after": {
+      "cpu_percent": 7.6,
+      "memory_percent": 66.0,
+      "timestamp": 1737900847.7217338
+    },
+    "inference_time": 0.09030866622924805
+  },
+  {
+    "iteration": 1,
+    "before": {
+      "cpu_percent": 10.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900847.742659
+    },
+    "after": {
+      "cpu_percent": 2.4,
+      "memory_percent": 66.0,
+      "timestamp": 1737900847.7975078
+    },
+    "inference_time": 0.042769432067871094
+  },
+  {
+    "iteration": 2,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900847.8218496
+    },
+    "after": {
+      "cpu_percent": 4.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900847.8831806
+    },
+    "inference_time": 0.0472409725189209
+  },
+  {
+    "iteration": 3,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900847.9075315
+    },
+    "after": {
+      "cpu_percent": 11.1,
+      "memory_percent": 66.0,
+      "timestamp": 1737900847.977541
+    },
+    "inference_time": 0.05401253700256348
+  },
+  {
+    "iteration": 4,
+    "before": {
+      "cpu_percent": 4.5,
+      "memory_percent": 66.0,
+      "timestamp": 1737900847.9991317
+    },
+    "after": {
+      "cpu_percent": 2.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.0692673
+    },
+    "inference_time": 0.05414009094238281
+  },
+  {
+    "iteration": 5,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.0928843
+    },
+    "after": {
+      "cpu_percent": 9.6,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.1589317
+    },
+    "inference_time": 0.056030988693237305
+  },
+  {
+    "iteration": 6,
+    "before": {
+      "cpu_percent": 10.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.1803837
+    },
+    "after": {
+      "cpu_percent": 10.4,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.24644
+    },
+    "inference_time": 0.05001401901245117
+  },
+  {
+    "iteration": 7,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.268678
+    },
+    "after": {
+      "cpu_percent": 2.1,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.3352704
+    },
+    "inference_time": 0.049578189849853516
+  },
+  {
+    "iteration": 8,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.3596482
+    },
+    "after": {
+      "cpu_percent": 8.2,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.427285
+    },
+    "inference_time": 0.05269122123718262
+  },
+  {
+    "iteration": 9,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.4506721
+    },
+    "after": {
+      "cpu_percent": 9.6,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.5174859
+    },
+    "inference_time": 0.051007986068725586
+  },
+  {
+    "iteration": 10,
+    "before": {
+      "cpu_percent": 18.8,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.5408685
+    },
+    "after": {
+      "cpu_percent": 9.4,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.6064155
+    },
+    "inference_time": 0.048549652099609375
+  },
+  {
+    "iteration": 11,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.6287487
+    },
+    "after": {
+      "cpu_percent": 12.2,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.6987636
+    },
+    "inference_time": 0.051969051361083984
+  },
+  {
+    "iteration": 12,
+    "before": {
+      "cpu_percent": 8.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.7214608
+    },
+    "after": {
+      "cpu_percent": 12.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.7894144
+    },
+    "inference_time": 0.051018714904785156
+  },
+  {
+    "iteration": 13,
+    "before": {
+      "cpu_percent": 5.3,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.8122272
+    },
+    "after": {
+      "cpu_percent": 3.8,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.881861
+    },
+    "inference_time": 0.052606821060180664
+  },
+  {
+    "iteration": 14,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.904729
+    },
+    "after": {
+      "cpu_percent": 7.7,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.9701784
+    },
+    "inference_time": 0.049404144287109375
+  },
+  {
+    "iteration": 15,
+    "before": {
+      "cpu_percent": 6.7,
+      "memory_percent": 66.0,
+      "timestamp": 1737900848.9923007
+    },
+    "after": {
+      "cpu_percent": 8.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.0588439
+    },
+    "inference_time": 0.05662059783935547
+  },
+  {
+    "iteration": 16,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.0781212
+    },
+    "after": {
+      "cpu_percent": 18.4,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.1317382
+    },
+    "inference_time": 0.04462170600891113
+  },
+  {
+    "iteration": 17,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.148563
+    },
+    "after": {
+      "cpu_percent": 16.7,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.1970208
+    },
+    "inference_time": 0.040467023849487305
+  },
+  {
+    "iteration": 18,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.2162485
+    },
+    "after": {
+      "cpu_percent": 13.3,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.266627
+    },
+    "inference_time": 0.0403900146484375
+  },
+  {
+    "iteration": 19,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.285189
+    },
+    "after": {
+      "cpu_percent": 8.3,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.3371918
+    },
+    "inference_time": 0.043007850646972656
+  },
+  {
+    "iteration": 20,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.3588293
+    },
+    "after": {
+      "cpu_percent": 7.5,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.410113
+    },
+    "inference_time": 0.04028463363647461
+  },
+  {
+    "iteration": 21,
+    "before": {
+      "cpu_percent": 8.7,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.4327734
+    },
+    "after": {
+      "cpu_percent": 10.3,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.4881494
+    },
+    "inference_time": 0.04434013366699219
+  },
+  {
+    "iteration": 22,
+    "before": {
+      "cpu_percent": 5.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.5116124
+    },
+    "after": {
+      "cpu_percent": 8.2,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.5726843
+    },
+    "inference_time": 0.04808616638183594
+  },
+  {
+    "iteration": 23,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.5948339
+    },
+    "after": {
+      "cpu_percent": 8.3,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.6568372
+    },
+    "inference_time": 0.04822397232055664
+  },
+  {
+    "iteration": 24,
+    "before": {
+      "cpu_percent": 16.7,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.6779711
+    },
+    "after": {
+      "cpu_percent": 13.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.7387593
+    },
+    "inference_time": 0.04679155349731445
+  },
+  {
+    "iteration": 25,
+    "before": {
+      "cpu_percent": 5.9,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.7629888
+    },
+    "after": {
+      "cpu_percent": 5.4,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.8284256
+    },
+    "inference_time": 0.04737281799316406
+  },
+  {
+    "iteration": 26,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.8504202
+    },
+    "after": {
+      "cpu_percent": 10.4,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.9145234
+    },
+    "inference_time": 0.050012826919555664
+  },
+  {
+    "iteration": 27,
+    "before": {
+      "cpu_percent": 5.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900849.9369705
+    },
+    "after": {
+      "cpu_percent": 7.7,
+      "memory_percent": 66.0,
+      "timestamp": 1737900850.0012918
+    },
+    "inference_time": 0.04839062690734863
+  },
+  {
+    "iteration": 28,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900850.0239863
+    },
+    "after": {
+      "cpu_percent": 4.3,
+      "memory_percent": 66.0,
+      "timestamp": 1737900850.090491
+    },
+    "inference_time": 0.051596879959106445
+  },
+  {
+    "iteration": 29,
+    "before": {
+      "cpu_percent": 0.0,
+      "memory_percent": 66.0,
+      "timestamp": 1737900850.1141768
+    },
+    "after": {
+      "cpu_percent": 6.4,
+      "memory_percent": 66.0,
+      "timestamp": 1737900850.1741722
+    },
+    "inference_time": 0.046039581298828125
+  }
+]

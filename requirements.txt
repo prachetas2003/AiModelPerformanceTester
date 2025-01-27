@@ -1,0 +1,7 @@
+torch
+torchvision
+psutil
+matplotlib
+jupyter
+plotly
+dash
